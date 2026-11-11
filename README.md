@@ -98,6 +98,40 @@ Continue the my learning with TryHackMe Pre Security Network Fundamentals pathwa
 -
 </pre>
 
+## 2026-11-10 — TryHackMe: How Websites Work 🎉
+
+<img src="celebration.gif" width="40" alt="Celebration">
+
+**Platform:** [TryHackMe — How Websites Work](https://tryhackme.com/room/howwebsiteswork)
+
+**Pathway:** Pre Security → How The Web Works
+
+**Status:** Completed — 100%
+
+### Connection to CSC 317
+
+This room connected directly to what I have been learning in my CSC 317 Web Development class, especially HTML and JavaScript. Understanding how websites are built is helping me recognize how vulnerabilities can appear when web applications handle user input, client-side code, and sensitive information.
+
+### What I learned
+
+- Reviewed how browsers and web servers communicate.
+- Studied the role of HTML in structuring web pages.
+- Practiced basic JavaScript concepts.
+- Learned how sensitive data can be exposed through web applications.
+- Explored how HTML injection vulnerabilities can occur.
+- Better understood the connection between web development and cybersecurity.
+
+### Evidence
+
+<img src="tryhackme-how-websites-work-completion.png" width="700" alt="TryHackMe How Websites Work completion">
+
+- Completed the room with 100% progress.
+
+### Next step
+
+Continue building my web development skills while learning how to identify and prevent common web application vulnerabilities.
+
+
 ## Related projects
 
 - [California Wildfires Information Website](https://github.com/qrainte444/climate-crisis-project-Jaylan-Jordan)
