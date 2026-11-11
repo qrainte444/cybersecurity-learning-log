@@ -83,8 +83,10 @@
 
 ### Evidence
 
+<img src="tryhackme-extending-your-network-completion.png" width="700" alt="TryHackMe Extending Your Network completion">
+
 - Completed all six tasks.
-- TryHackMe room progress: 100% 
+- TryHackMe room progress: 100%
 
 ### What I understand now
 
