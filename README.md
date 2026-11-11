@@ -64,42 +64,35 @@
 | Workflow | Git, GitHub, documentation |
 | Security | Security principles, defensive concepts, learning labs |
 
-## Learning log
+## 2026-11-11 — TryHackMe: Extending Your Network
 
-Each entry records what I studied, what I practiced, and what I still need to understand. This log is intentionally honest: unfinished work stays marked as unfinished.
+**Platform:** [TryHackMe — Extending Your Network](https://tryhackme.com/room/extendingyournetwork)
 
-### 2026-11-08 — Learning log initialized
+**Pathway:** Pre Security → Network Fundamentals
 
-<strong>Completed:</strong>
+**Status:** Completed — 100% <img src="celebration.gif" width="40" alt="Celebration">
 
-- Created a public repository to document my technology and cybersecurity learning.
-- Organized my current focus areas: networking, Linux, Windows, and blue-team security.
+### What I learned
 
-<strong>Purpose:</strong>
+- Reviewed how port forwarding allows external traffic to reach services on an internal network.
+- Learned the purpose of firewalls and how firewall rules control network traffic.
+- Practiced basic firewall concepts through an interactive exercise.
+- Reviewed VPN fundamentals and how VPNs provide secure remote connectivity.
+- Studied common LAN networking devices and their roles.
+- Used a network simulator to reinforce basic networking concepts.
 
-- Track what I learn.
-- Record hands-on practice.
-- Build evidence of progress over time.
+### Evidence
 
-<strong>Next step:</strong>
+- Completed all six tasks.
+- TryHackMe room progress: 100% 
 
-- Complete my next TryHackMe Pre Security lesson and document what I learn.
+### What I understand now
 
-### Entry template
+I have a better understanding of how networks extend beyond a local environment and how firewalls, port forwarding, VPNs, and networking devices affect connectivity and security.
 
-<pre>
-### YYYY-MM-DD — Topic
+### Next step
 
-Learned:
--
-
-Practiced:
--
-
-Evidence:
-- Room, lab, command output, screenshot, or code link
-
-Next step:
+Continue the my learning with TryHackMe Pre Security Network Fundamentals pathway and apply these concepts in my home lab that I'm also developing at the moment.
 -
 </pre>
 
